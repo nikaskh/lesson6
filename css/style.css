@@ -3,7 +3,7 @@
 	background-color: #0020F4;
 }
 .section-image1{
-	width: 707px;
+	width: 100%;
 	max-width: 707px;
 	margin-left: 140px;
 	margin-right: 25px;
@@ -11,7 +11,7 @@
 	margin-top: 162px;
 }
 .section-image2{
-	width: 948px;
+	width: 100%;
 	max-width: 948px;
 	margin-top: 97px;
 	margin-bottom: 65px;
@@ -56,7 +56,7 @@
 }
 
 .section-image3{
-	width: 707px;
+	width: 100%;
 	max-width: 707px;
 	margin-left: 137px;
 	margin-top: 100px;
