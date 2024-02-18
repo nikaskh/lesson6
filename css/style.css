@@ -1,0 +1,72 @@
+/*section 1 and section 2*/
+.section-bg{
+	background-color: #0020F4;
+}
+.section-image1{
+	width: 707px;
+	max-width: 707px;
+	margin-left: 140px;
+	margin-right: 25px;
+	margin-bottom: 203px;
+	margin-top: 162px;
+}
+.section-image2{
+	width: 948px;
+	max-width: 948px;
+	margin-top: 97px;
+	margin-bottom: 65px;
+}
+.dot1, .dot2, .dot3 {
+	width: 10px;
+	height: 10px;
+	background-color: white;
+	border-radius: 50%;
+	display: inline-block;
+	margin-bottom: 136px;
+	margin-top: 49px;
+}
+.dot2, .dot3{
+	opacity: 30%;
+}
+.dot1{
+	margin-left: 140px;
+	margin-right: 20px;
+}
+.dot2{
+	margin-right: 20px;
+}
+.section-2{
+	background-color: white;
+}
+
+.section-2 h1{
+	margin-left: 240px;
+	font-size: 32px;
+	letter-spacing: 0px;
+	margin-bottom: 60px;
+	margin-top: 180px;
+}
+.section-2 article p{
+	width: 463px;
+	height: 385px;
+	margin-left: 240px;
+	font-size: 16px;
+	letter-spacing: 0px;
+	display: inline-block;
+}
+
+.section-image3{
+	width: 707px;
+	max-width: 707px;
+	margin-left: 137px;
+	margin-top: 100px;
+	border-radius: 15px;
+	border-right: 15px solid #0020F4;
+	border-bottom: 15px solid #0020F4;
+	margin-bottom: 50px;
+	
+}
+.section-image3,
+.section-2 article p{
+	vertical-align: top;
+}
