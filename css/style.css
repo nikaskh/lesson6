@@ -15,15 +15,14 @@ body {
   background-color: #0020f4;
 }
 .section-image1 {
-  width: 100%;
+  width: 29%;
   max-width: 707px;
-  margin-left: 140px;
   margin-right: 25px;
   margin-bottom: 203px;
   margin-top: 162px;
 }
 .section-image2 {
-  width: 100%;
+  width: 40%;
   max-width: 948px;
   margin-top: 97px;
   margin-bottom: 65px;
@@ -55,14 +54,12 @@ body {
 }
 .section-2 h1 {
   font-size: 32px;
-  margin-left: 100px;
   letter-spacing: 0px;
   margin-bottom: 60px;
   margin-top: 180px;
   font-family: "HELVETICA";
 }
 .section-2 article p {
-  margin-left: 100px;
   width: 463px;
   height: 385px;
   font-size: 16px;
@@ -91,12 +88,12 @@ a {
 .text {
   width: 400px;
   margin-bottom: 10rem;
+  margin-left: 100px;
 }
 
 .section-4 {
   display: flex;
   padding: 20px 5%;
-  justify-content: space-evenly;
   gap: 30px;
 }
 

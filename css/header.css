@@ -14,12 +14,15 @@ header {
 .header-nav li{
     display: inline-block;
     font-family: HELVETICA-2;
+    padding: 10px;
 }
 .nav-ul a{
     color: #FFFF;
 }
 .header-nav {
-    margin-left: 100px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 100px;
 }
 .nav-ul li{
     margin-left: 20px;
