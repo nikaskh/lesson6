@@ -98,6 +98,7 @@ a {
   padding: 20px 5%;
   justify-content: space-evenly;
   gap: 30px;
+  margin-right: 20rem;
 }
 
 .section-4 h1 {
@@ -126,6 +127,10 @@ a {
 
   .section-4 p {
     font-size: 12px;
+  }
+
+  .section-4 {
+    margin-right: 70rem;
   }
 }
 
@@ -162,7 +167,7 @@ footer {
   align-items: center;
   justify-content: center;
   gap: 10px;
-  margin-right: 4rem;
+  margin-right: 20rem;
   height: auto;
   position: relative;
   height: 60vh;
@@ -173,8 +178,8 @@ footer {
     width: 200px;
   }
 
-  .flex {
-    margin-left: 10rem;
+  .footer-flex {
+    margin-right: 70rem;
   }
 }
 
