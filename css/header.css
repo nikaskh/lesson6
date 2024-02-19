@@ -1,0 +1,26 @@
+header {
+    background-color: #0020F4;
+    position: fixed;
+    width: 100%;
+}
+.logo {
+    max-width: 115px;
+    width: 100%;
+}
+.logo , .header-nav{
+    display: inline-block;
+    vertical-align: middle;
+}
+.header-nav li{
+    display: inline-block;
+    font-family: HELVETICA-2;
+}
+.nav-ul a{
+    color: #FFFF;
+}
+.header-nav {
+    margin-left: 100px;
+}
+.nav-ul li{
+    margin-left: 20px;
+}

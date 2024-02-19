@@ -1,4 +1,12 @@
 /*section 1 and section 2*/
+@font-face {
+    font-family: "HELVETICA";
+    src: url(../font/HELVETICA-NEUE-LT-GEO-75-BOLD.ttf) format(truetype);
+}
+@font-face {
+    font-family: "HELVETICA-2";
+    src: url(../font/HELVETICANEUELTGEO-45LIGHTS.ttf) format(truetype);
+}
 body {
     width: 1920px;
     overflow-x: hidden;
@@ -42,7 +50,6 @@ body {
 .section-2{
 	background-color: #FFFFFF;
 }
-
 .section-2 h1{
 	font-size: 32px;
 	margin-left: 100px;
@@ -60,7 +67,6 @@ body {
 	display: inline-block;
 	font-family: "HELVETICA-2";
 }
-
 .section-image3{
 	width: 100%;
 	max-width: 707px;
@@ -70,9 +76,11 @@ body {
 	border-right: 15px solid #0020F4;
 	border-bottom: 15px solid #0020F4;
 	margin-bottom: 50px;
-	
 }
 .section-image3,
 .section-2 article p{
 	vertical-align: top;
+}
+a {
+    text-decoration: none;
 }
